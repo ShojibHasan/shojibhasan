@@ -7,6 +7,7 @@
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="Django" src="https://img.icons8.com/color/48/000000/django.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
   
 </p>
 
