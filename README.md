@@ -1,14 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br>  I'm <b> Mahfujul Hasan SHOJIB </b>, Python Backend developer from <b>Dhaka, Bangladesh</b>
+<p>Welcome to my page! </br>  I'm <b> Mahfujul Hasan SHOJIB </b>, Python Backend developer from <b>Dhaka, Bangladesh. </b>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
   <img alt="Django" src="https://img.icons8.com/color/48/000000/django.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/50/000000/javascript.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/postgreesql.png" /> 
-  
+  <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
+  <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
 
