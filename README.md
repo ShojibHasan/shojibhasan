@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome bro 😏 ! </br>  I'm <b> Mahfujul Hasan SHOJIB </b>.Focusing on develop scalable and well documented code. Learning new things every day. You can hit me with your best short. Either i'll win otherwise i'll learn...👿 </b>
+<p>Hey There ! </br>  I'm <b> Mahfujul Hasan SHOJIB </b>.Focusing on develop scalable and well documented code. Learning new things every day. You can hit me with your best short. Either i'll win otherwise i'll learn...👿 </b>
 <h3>Things I code with</h3>
 <p>
   <img alt="Python" src="https://img.icons8.com/color/48/000000/python.png" />
