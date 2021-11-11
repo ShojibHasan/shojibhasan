@@ -11,6 +11,7 @@
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://s5.gifyu.com/images/social_default_image-removebg-preview.png"/>
 </p>
 
 
