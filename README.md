@@ -11,7 +11,7 @@
   <img alt="Javascript" src="https://img.icons8.com/color/48/000000/docker-container.png" /> 
   <img alt="Javascript" src="https://img.icons8.com/doodle/48/000000/github.png" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://s10.gifyu.com/images/odoo1.png"/>
+  <img src="https://apps.odoocdn.com/web/static/img/odoo_logo_tiny.png"/>
 </p>
 
 
